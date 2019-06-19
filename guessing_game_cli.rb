@@ -11,5 +11,4 @@ def run_guessing_game
     else
       puts "Invalid input "
     end 
-    
-    
+  end
