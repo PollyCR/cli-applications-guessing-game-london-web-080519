@@ -14,4 +14,6 @@ def run_guessing_game
   if user_input == "exit"
     puts "Goodbye!"
   end
+   puts "Guess a number between 1 and 6."
+  user_input = gets.chomp
 end 
